@@ -1,0 +1,7 @@
+export const Board = () => {
+  return (
+    <div style={{ color: "white", padding: 40 }}>
+      <h1>Kanban Board UI 🚀</h1>
+    </div>
+  );
+};
